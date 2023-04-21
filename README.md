@@ -1,7 +1,7 @@
 DiceCloud
 ========
 
-This is the repo for [DiceCloud](dicecloud.com).
+This repo is a fork of [DiceCloud](dicecloud.com) for imthegm to use as a tinkering sandbox.
 
 DiceCloud is a free, auditable, real-time character sheet for D&D 5e.
 
